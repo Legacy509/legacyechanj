@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="ht">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Legacy Exchange - Akèy</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f8faff;
+      color: #222;
+    }
+    header, footer {
+      background: #002244;
+      color: white;
+      text-align: center;
+      padding: 20px 10px;
+    }
+    nav a {
+      color: #fff;
+      margin: 0 12px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 30px 20px;
+    }
+    h1, h2, h3 {
+      color: #002244;
+    }
+    .section {
+      background: #ffffff;
+      padding: 20px;
+      border-radius: 10px;
+      margin-bottom: 30px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    }
+    .service {
+      margin-bottom: 20px;
+    }
+    .advantage, .disadvantage {
+      background: #e8f4ff;
+      padding: 15px;
+      border-left: 5px solid #007bff;
+      margin: 10px 0;
+      border-radius: 5px;
+    }
+    .disadvantage {
+      background: #ffe9e9;
+      border-left-color: #d10000;
+    }
+    .btn {
+      display: inline-block;
+      background: #007bff;
+      color: white;
+      padding: 10px 18px;
+      border-radius: 5px;
+      text-decoration: none;
+      margin-top: 15px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Legacy Exchange</h1>
+    <p>Sèvis Echanj Dijital | Rapid, Senp, Sekirize</p>
+    <nav>
+      <a href="index.html">Akèy</a>
+      <a href="paypal.html">PayPal</a>
+      <a href="crypto.html">Crypto</a>
+      <a href="unibank.html">Unibank</a>
+    </nav>
+  </header>
+
+  <div class="container">
+    <div class="section">
+      <h2>Byenveni sou Legacy Exchange</h2>
+      <p>Nou se yon platfòm dijital ki fasilite echanj ant <strong>Goud</strong>, <strong>USD</strong>, <strong>Wise</strong>, <strong>PayPal</strong>, <strong>USDT</strong>, <strong>USDC</strong>, <strong>Unibank</strong> ak lòt fòm peman. Objektif nou se mete solisyon rapid nan men w pou transfè, depo ak retrè lajan san difikilte.</p>
+    </div>
+
+    <div class="section">
+      <h2>Sèvis Nou Ofri</h2>
+      <div class="service">
+        <h3>✅ Recharge & Retrait Wise</h3>
+        <p>Voye oswa resevwa lajan sou kont Wise ou dirèkteman. Ideal pou moun k ap fè biznis entènasyonal.</p>
+      </div>
+      <div class="service">
+        <h3>✅ Recharge & Retrait PayPal</h3>
+        <p>Nou mete lajan sou kont PayPal ou oswa retire lajan sou li — tout sa san ou pa bezwen kat entènasyonal.</p>
+      </div>
+      <div class="service">
+        <h3>✅ Echanj Crypto: USDT, USDC, TRON</h3>
+        <p>Achte oswa vann crypto atravè rezo TRC-20, Polygon, Stellar. Nou fè tou echanj ant USD ak Goud.</p>
+      </div>
+      <div class="service">
+        <h3>✅ Transfè Unibank HTG/US ↔ USDT, Wise, MonCash</h3>
+        <p>Fè transfè lokal oswa entènasyonal atravè kont Unibank ou an goud oswa USD.</p>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Avantaj Ou Jwenn Avèk Legacy Exchange</h2>
+      <div class="advantage">
+        🔒 Sekirite garanti: Transaksyon ou yo anrejistre epi verifye.
+      </div>
+      <div class="advantage">
+        ⚡ Vitès: Transaksyon yo fèt nan menm moman an oswa nan kèk minit.
+      </div>
+      <div class="advantage">
+        💬 Sipò WhatsApp 24/7: Nou toujou disponib pou ede w.
+      </div>
+      <div class="advantage">
+        🌎 Ou ka itilize sèvis nou kote ou ye sou planèt la — Ayiti oswa aletranje.
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Limitasyon (Dezavantaj)</h2>
+      <div class="disadvantage">
+        ⌛ Nou pa itilize API otomatik — sa vle di kèk tranzaksyon dwe verifye manyèlman.
+      </div>
+      <div class="disadvantage">
+        💳 Nou pa ofri kat fizik pou kounye a — sèlman echanj dijital.
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Pran Premye Aksyon Ou</h2>
+      <p>Pa pèdi tan. Klike sou bouton ki anba pou kontakte nou dirèkteman epi kòmanse tranzaksyon ou a.</p>
+      <a class="btn" href="https://wa.me/509XXXXXXXX?text=Mwen%20vle%20kòmanse%20yon%20transaksyon" target="_blank">Kòmanse sou WhatsApp</a>
+    </div>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Legacy Exchange | Tout dwa rezève | WhatsApp: +509 XXX XX XX</p>
+  </footer>
+</body>
+</html>
